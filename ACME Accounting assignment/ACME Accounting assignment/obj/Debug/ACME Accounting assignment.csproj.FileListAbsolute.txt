@@ -1,0 +1,6 @@
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\obj\Debug\ACME Accounting assignment.csproj.CoreCompileInputs.cache
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\bin\Debug\ACME Accounting assignment.exe.config
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\bin\Debug\ACME Accounting assignment.exe
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\bin\Debug\ACME Accounting assignment.pdb
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\obj\Debug\ACME Accounting assignment.exe
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ACME Accounting assignment\ACME Accounting assignment\obj\Debug\ACME Accounting assignment.pdb
