@@ -12,23 +12,23 @@ namespace Anonymous_Income_Comparison_Program
 
             //gets details of Person 1
             Console.WriteLine("Person 1");
-            Console.WriteLine("Enter hourly rate:");
-            double hourlyRate1 = Convert.ToDouble(Console.ReadLine()); // User input hourly rate
-            Console.WriteLine("Enter hours worked per week:");
-            double hoursWorkedPerWeek1 = Convert.ToDouble(Console.ReadLine()); // User input hours worked per week
+            Console.WriteLine("Hourly rate:");
+            int money1 = Convert.ToInt32(Console.ReadLine()); // User input hourly rate
+            Console.WriteLine("Hours worked per week:");
+            int hoursWorkedPerWeek1 = Convert.ToInt32(Console.ReadLine()); // User input hours worked per week
 
             // Calculating annual salary of Person 1
-            double annualSalary1 = hourlyRate1 * hoursWorkedPerWeek1 * 52; // multiplying working hours by weeks in a year
+            int annualSalary1 = money1 * hoursWorkedPerWeek1 * 52; // multiplying working hours by weeks in a year
 
             // gets details of Person 2
             Console.WriteLine("Person 2");
-            Console.WriteLine("Enter hourly rate:");
-            double hourlyRate2 = Convert.ToDouble(Console.ReadLine()); // User input hourly rate
-            Console.WriteLine("Enter hours worked per week:");
-            double hoursWorkedPerWeek2 = Convert.ToDouble(Console.ReadLine()); // User input hours worked per week
+            Console.WriteLine("Hours:");
+            int money2 = Convert.ToInt32(Console.ReadLine()); // User input hourly rate
+            Console.WriteLine("Hours worked per week:");
+            int hoursWorkedPerWeek2 = Convert.ToInt32(Console.ReadLine()); // User input hours worked per week
 
             // Calculate annual salary of Person 2
-            double annualSalary2 = hourlyRate2 * hoursWorkedPerWeek2 * 52; // multiplying working hours by weeks in a year
+            int annualSalary2 = money2 * hoursWorkedPerWeek2 * 52; // multiplying working hours by weeks in a year
 
             // Printing annual salaries
             Console.WriteLine("Annual salary of Person 1: " + annualSalary1);
