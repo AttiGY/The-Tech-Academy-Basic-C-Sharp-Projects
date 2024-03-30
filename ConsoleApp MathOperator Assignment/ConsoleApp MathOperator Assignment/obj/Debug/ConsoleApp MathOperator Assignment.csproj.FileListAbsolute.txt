@@ -1,0 +1,6 @@
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\bin\Debug\ConsoleApp MathOperator Assignment.exe.config
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\bin\Debug\ConsoleApp MathOperator Assignment.exe
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\bin\Debug\ConsoleApp MathOperator Assignment.pdb
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\obj\Debug\ConsoleApp MathOperator Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\obj\Debug\ConsoleApp MathOperator Assignment.exe
+C:\Users\Vadember\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleApp MathOperator Assignment\ConsoleApp MathOperator Assignment\obj\Debug\ConsoleApp MathOperator Assignment.pdb
