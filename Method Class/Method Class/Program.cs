@@ -3,10 +3,10 @@
 
 namespace Method_Class
 {
-    // Define a class named MathOperations
+    // Defining a class named MathOperations
     public class MathOperations
     {
-        // Define a method named PerformOperation that takes two integers as parameters
+        // Defining a method named PerformOperation that takes two integers as parameters
         public void PerformOperation(int num1, int num2)
         {
             // Perform a math operation on the first integer and display the second integer
@@ -19,16 +19,16 @@ namespace Method_Class
     {
         static void Main(string[] args)
         {
-            // Instantiate the MathOperations class
+            // Instantiating the MathOperations class
             MathOperations math = new MathOperations();
 
-            // Call the PerformOperation method in the class, passing in two numbers (3 and 7)
+            // Calling the PerformOperation method in the class, passing in two numbers (3 and 7)
             math.PerformOperation(3, 7);
 
-            // Call the PerformOperation method in the class, specifying the parameters by name
+            // Calling the PerformOperation method in the class, specifying the parameters by name
             math.PerformOperation(num1: 5, num2: 10);
 
-            // Add a line to prompt the user to press any key before closing the console
+            // Keeping console open until a key is pressed
             Console.WriteLine("Press any key...");
             Console.ReadKey();
         }
